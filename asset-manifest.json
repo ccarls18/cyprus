@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cyprus/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/cyprus/static/js/main.24c8bc97.chunk.js",
+    "main.js.map": "/cyprus/static/js/main.24c8bc97.chunk.js.map",
+    "runtime-main.js": "/cyprus/static/js/runtime-main.e0673f8a.js",
+    "runtime-main.js.map": "/cyprus/static/js/runtime-main.e0673f8a.js.map",
+    "static/js/2.20f5065e.chunk.js": "/cyprus/static/js/2.20f5065e.chunk.js",
+    "static/js/2.20f5065e.chunk.js.map": "/cyprus/static/js/2.20f5065e.chunk.js.map",
+    "static/js/3.4dc7608a.chunk.js": "/cyprus/static/js/3.4dc7608a.chunk.js",
+    "static/js/3.4dc7608a.chunk.js.map": "/cyprus/static/js/3.4dc7608a.chunk.js.map",
+    "index.html": "/cyprus/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/cyprus/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.20f5065e.chunk.js.LICENSE.txt": "/cyprus/static/js/2.20f5065e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/cyprus/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0673f8a.js",
+    "static/js/2.20f5065e.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.24c8bc97.chunk.js"
+  ]
+}
