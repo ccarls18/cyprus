@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cyprus/static/css/main.9d082b18.chunk.css",
-    "main.js": "/cyprus/static/js/main.0a6c03ae.chunk.js",
-    "main.js.map": "/cyprus/static/js/main.0a6c03ae.chunk.js.map",
+    "main.js": "/cyprus/static/js/main.78d9d02c.chunk.js",
+    "main.js.map": "/cyprus/static/js/main.78d9d02c.chunk.js.map",
     "runtime-main.js": "/cyprus/static/js/runtime-main.d9f68b62.js",
     "runtime-main.js.map": "/cyprus/static/js/runtime-main.d9f68b62.js.map",
     "static/js/2.3c0865d4.chunk.js": "/cyprus/static/js/2.3c0865d4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d9f68b62.js",
     "static/js/2.3c0865d4.chunk.js",
     "static/css/main.9d082b18.chunk.css",
-    "static/js/main.0a6c03ae.chunk.js"
+    "static/js/main.78d9d02c.chunk.js"
   ]
 }
