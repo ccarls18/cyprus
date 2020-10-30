@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import * as ReactBootStrap from "react-bootstrap";
 import Login from "./Components/login.js";
 import Features from "./Components/Features.js";
 import Pricing from "./Components/Pricing.js";
 import NavBar from "./Components/Navbar.js"
+import * as ReactBootStrap from "react-bootstrap";
 import {
   BrowserRouter as Router,
   Switch,
