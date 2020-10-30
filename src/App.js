@@ -20,7 +20,7 @@ function App() {
       <HashRouter>
         <nav className='navbar'>
           <div className='navbar-container'>
-            <a href="/Home" className='brand-title'>Cyprus</a>
+            <a href="#Home" className='brand-title'>Cyprus</a>
             <button onClick={(e) => { handleNavbarButton(e); }} className='navbar-toggler'>
               <span className='navbar-toggler-icon'></span>
             </button>
