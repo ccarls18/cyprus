@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import { BrowserRouter, NavLink, Switch, Route, useLocation } from 'react-router-dom';
+import { HashRouter, NavLink, Switch, Route, useLocation } from 'react-router-dom';
 import './App.css';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <nav className='navbar'>
           <div className='navbar-container'>
             <a href="/Home" className='brand-title'>Cyprus</a>
@@ -42,7 +42,7 @@ function App() {
         <div className='container'>
           <AllRoutes hideMenu={() => { hideNavMenu(); }}></AllRoutes>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
@@ -68,7 +68,7 @@ function AllRoutes({ hideMenu }) {
 
 function Home() {
   return (
-    <h1>I SENT AN UPDATE TO GH_PAGES</h1>
+    <h1>I AN UPDATE TO GH_PAGES</h1>
   );
 }
 
